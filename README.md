@@ -48,8 +48,8 @@
       <img src="https://pixabay.com/static/uploads/photo/2015/10/01/21/39/background-image-967820_960_720.jpg" class="space"/> <img src="https://pixabay.com/static/uploads/photo/2015/10/01/21/39/background-image-967820_960_720.jpg" class="space"/>
     </div>
    <div class="well" id="contact">
-     <h1><a href="#"><button class="Email">Email</button></a></h1>
-     <h1><a href="#"><button class="Phone">Phone</button></a></h1>
+     <h1><a href="#"><button class="Email">Email: theressah876@gmail.com</button></a></h1>
+     <h1><a href="#"><button class="Phone">Phone: 0812406220</button></a></h1>
       </div>
 </body>
 
